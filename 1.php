@@ -2,4 +2,4 @@
 echo "hello world !";
 echo "Git is free software!";
 echo "提交到暂存区";
-echo "11";
+echo "22";
